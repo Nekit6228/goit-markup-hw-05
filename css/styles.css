@@ -631,9 +631,3 @@ li {
     transform: translateY(-50%);
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.svg-modal-two:focus{
-    fill: #4D5AE5;
-}
-.input-label-div-two{
-    fill: #4D5AE5;
-}
