@@ -586,3 +586,6 @@ li {
 .button-modal:focus .svg-modal{
     fill: #ffffff
 }
+.div-modal-two{
+    padding: 72px 24px 24px 24px;
+}
