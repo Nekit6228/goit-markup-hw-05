@@ -43,5 +43,8 @@
 <path d="M2 12h6v18h-6v-18z"></path>
 <path d="M8 7c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path>
 </symbol>
+<symbol id="icon-Frame-3" viewBox="0 0 24 24">
+      <path fill="#fff" d="M24 2 0 13.25l7.67 2.367L19.5 6.375l-8.998 10.116.007.002-.009-.002V22l4.301-4.182L20.25 19.5 24 2z" style="fill:var(--color1, #fff)"/>
+    </symbol>
 </defs>
 </svg>
