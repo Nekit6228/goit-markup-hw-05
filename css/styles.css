@@ -676,8 +676,11 @@ li {
     fill: transparent;
 
 }
-.input-div:checked{
-        background-color: #404bbf;
-        border: none;
-        fill: #F4F4FD;
+.input-div:checked + .label-two .span-modal{
+    background-color:#404bbf;
+    border: none;
+    fill: #F4F4FD;;
+}
+.a-modal{
+    color: #4d5ae5;
 }
