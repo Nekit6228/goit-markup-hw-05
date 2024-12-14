@@ -676,3 +676,8 @@ li {
     fill: transparent;
 
 }
+.input-div:checked{
+        background-color: #404bbf;
+        border: none;
+        fill: #F4F4FD;
+}
