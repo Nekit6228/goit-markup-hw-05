@@ -495,7 +495,5 @@ li {
 }
 .form-footer{
     display: flex;
-}
-.label-footer{
-    gap:24px;
+    gap: 24px;
 }
