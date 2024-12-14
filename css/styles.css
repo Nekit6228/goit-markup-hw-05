@@ -623,6 +623,8 @@ li {
 }
 .input-label-div:focus{
     border-color: #4D5AE5;
+}
+.input-label-div:focus .fill-modal{
     fill: #4D5AE5;
 }
 .svg-modal-two{
